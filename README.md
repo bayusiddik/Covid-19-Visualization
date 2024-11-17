@@ -6,16 +6,13 @@ Overview :
 2. Import libraries
 3. Read Dataset
 4. Exploratory Data Analysis
-   
-   4.1. Check Info Dataset
-   
-   4.2. Cleaning Dataset
-   
-   4.3. Country Wise Data
-   
-   	   a. View confirmed cases, active cases, death cases, and recovered cases.
-   
-   	   b. View total deaths and death rates per 100 cases
+   1) Check Info Dataset
+   2) Cleaning Dataset
+   3) Country Wise Data
+      
+      a. View confirmed cases, active cases, death cases, and recovered cases.
+
+      b. View total deaths and death rates per 100 cases
    
 6. Data Visualization
    1) Active Cases Around The World
