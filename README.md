@@ -13,9 +13,9 @@ Overview :
    
    4.3. Country Wise Data
    
-   	a. View confirmed cases, active cases, death cases, and recovered cases.
+   	   a. View confirmed cases, active cases, death cases, and recovered cases.
    
-   	b. View total deaths and death rates per 100 cases
+   	   b. View total deaths and death rates per 100 cases
    
 6. Data Visualization
    1) Active Cases Around The World
